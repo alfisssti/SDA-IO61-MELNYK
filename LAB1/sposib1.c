@@ -8,14 +8,14 @@ int main() {
     scanf_s("%f", &x);
     if (x > -10) {
         if (x <= -5) {
-            y=x*x*x-6.0;
+            y=x*x*x-6;
             defined=1;
         } else if (x > 5) {
             if (x <= 15) {
-                y=x*x*x-6.0;
+                y=x*x*x-6;
                 defined=1;
             } else if (x >= 25) {
-                y=2.0*x*x*x-3.0*x+2;
+                y=2*x*x*x-3*x+2;
                 defined=1;
             }
         }
@@ -25,4 +25,5 @@ int main() {
     } else {
         printf("For such x = %.4f function is undefined", x);
     }
+    return 0;
 }

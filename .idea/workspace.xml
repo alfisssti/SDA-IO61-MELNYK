@@ -16,8 +16,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="534f7f16-049c-4eb4-9569-ba61d5016726" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LAB1/sposib2.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB1/sposib1.c" beforeDir="false" afterPath="$PROJECT_DIR$/LAB1/sposib1.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB1/sposib2.c" beforeDir="false" afterPath="$PROJECT_DIR$/LAB1/sposib2.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +65,7 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "C/C++ File.main.c.executor": "Run",
+    "C/C++ File.sposib2.c.executor": "Run",
     "CidrDebugProfileConversion": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.RadMigrateCodeStyle": "true",
@@ -84,30 +86,43 @@
     "settings.editor.selected.configurable": "File.Encoding"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="C/C++ File.sposib2.c">
     <configuration name="main.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SDA-IO61-MELNYK" TARGET_NAME="main.c" CONFIG_NAME="main.c">
       <option name="sourceFile" value="LAB1\main.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="sposib2.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SDA-IO61-MELNYK" TARGET_NAME="sposib2.c" CONFIG_NAME="sposib2.c">
+      <option name="sourceFile" value="LAB1\sposib2.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.sposib2.c" />
         <item itemvalue="C/C++ File.main.c" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SelectedDebugProfileService">{
-  &quot;profileIdByStamp&quot;: [
+  <component name="SelectedDebugProfileService"><![CDATA[{
+  "profileIdByStamp": [
     {
-      &quot;first&quot;: {
-        &quot;##RUN_CONFIGURATION##&quot;: &quot;C/C++ File.main.c&quot;
+      "first": {
+        "##RUN_CONFIGURATION##": "C/C++ File.main.c"
       },
-      &quot;second&quot;: &quot;5862a443-a595-44b7-ad37-b40b323aa522&quot;
+      "second": "5862a443-a595-44b7-ad37-b40b323aa522"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "C/C++ File.sposib2.c"
+      },
+      "second": "5862a443-a595-44b7-ad37-b40b323aa522"
     }
   ],
-  &quot;modificationCount&quot;: 2
-}</component>
+  "modificationCount": 4
+}]]></component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="534f7f16-049c-4eb4-9569-ba61d5016726" name="Changes" comment="" />
