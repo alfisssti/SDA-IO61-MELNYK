@@ -73,12 +73,12 @@ int main() {
 }
 ```
 #### Скріншоти тестів:
-![](./screenshots/sposib1_-12.png)
-![](./screenshots/sposib1_-9.png)
-![](./screenshots/sposib1_1.png)
-![](./screenshots/sposib1_6.png)
-![](./screenshots/sposib1_20.png)
-![](./screenshots/sposib1_45.png)
+![](./screenshots/sposib1_-12.png)\
+![](./screenshots/sposib1_-9.png)\
+![](./screenshots/sposib1_1.png)\
+![](./screenshots/sposib1_6.png)\
+![](./screenshots/sposib1_20.png)\
+![](./screenshots/sposib1_45.png)\
 
 ### Умови другого способу:
 ##### Варіант 15
@@ -118,9 +118,9 @@ int main() {
 }
 ```
 #### Скріншоти тестів:
-![](./screenshots/sposib2_-23.png)
-![](./screenshots/sposib2_-6.png)
-![](./screenshots/sposib2_2.png)
-![](./screenshots/sposib2_12.png)
-![](./screenshots/sposib2_22.png)
-![](./screenshots/sposib2_453.png)
+![](./screenshots/sposib2_-23.png)\
+![](./screenshots/sposib2_-6.png)\
+![](./screenshots/sposib2_2.png)\
+![](./screenshots/sposib2_12.png)\
+![](./screenshots/sposib2_22.png)\
+![](./screenshots/sposib2_453.png)\
