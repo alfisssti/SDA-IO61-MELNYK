@@ -15,11 +15,12 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="534f7f16-049c-4eb4-9569-ba61d5016726" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LAB2/main.c" afterDir="false" />
+    <list default="true" id="534f7f16-049c-4eb4-9569-ba61d5016726" name="Changes" comment="code">
+      <change afterPath="$PROJECT_DIR$/LAB2/Звіт_LAB2.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LAB1/sposib2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/LAB1/sposib2.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LAB1/Звіт_LAB1.md" beforeDir="false" afterPath="$PROJECT_DIR$/LAB1/Звіт_LAB1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB2/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/LAB2/main.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +87,7 @@
     "node.js.selected.package.jshint": "",
     "nodejs_package_manager_path": "npm",
     "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
-    "settings.editor.selected.configurable": "File.Encoding"
+    "settings.editor.selected.configurable": "preferences.fileTypes"
   }
 }]]></component>
   <component name="RunManager" selected="C/C++ File.sposib1.c (1)">
@@ -164,6 +165,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="code" />
+    <option name="LAST_COMMIT_MESSAGE" value="code" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

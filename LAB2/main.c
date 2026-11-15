@@ -53,10 +53,10 @@ int main() {
     }
     cntr2++; // last i<=n
 
-    printf("First variation, nested loops");
+    printf("First variation, nested loops\n");
     printf("The value of x in first variation is: %.7lf\n", suma);
     printf("The number of operations in first variation is: %lld\n\n", cntr);
-    printf("Second variation, dynamic programming");
+    printf("Second variation, dynamic programming\n");
     printf("The value of x in second variation is: %.7lf\n", suma2);
     printf("The number of operations in second variation is: %lld\n", cntr2);
 }
