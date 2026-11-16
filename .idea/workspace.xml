@@ -15,10 +15,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="534f7f16-049c-4eb4-9569-ba61d5016726" name="Changes" comment="code">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LAB1/sposib2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/LAB1/sposib2.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LAB1/Звіт_LAB1.md" beforeDir="false" afterPath="$PROJECT_DIR$/LAB1/Звіт_LAB1.md" afterDir="false" />
+    <list default="true" id="534f7f16-049c-4eb4-9569-ba61d5016726" name="Changes" comment="Complete">
       <change beforePath="$PROJECT_DIR$/LAB2/Звіт_LAB2.md" beforeDir="false" afterPath="$PROJECT_DIR$/LAB2/Звіт_LAB2.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -167,7 +164,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="code" />
-    <option name="LAST_COMMIT_MESSAGE" value="code" />
+    <MESSAGE value="Complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
